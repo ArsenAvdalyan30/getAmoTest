@@ -1,0 +1,2 @@
+# getAmoTest
+Testing getAmo integration
